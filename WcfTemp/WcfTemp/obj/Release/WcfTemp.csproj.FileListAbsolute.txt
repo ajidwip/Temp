@@ -1,0 +1,6 @@
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.dll.config
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.dll
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.pdb
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Release\WcfTemp.dll
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Release\WcfTemp.pdb
