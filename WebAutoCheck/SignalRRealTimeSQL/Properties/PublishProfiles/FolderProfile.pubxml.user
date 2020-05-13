@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Projects\Temp\WebAutoCheck\SignalRRealTimeSQL\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>09/08/2016 10:06:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>09/08/2016 10:06:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>01/13/2014 16:11:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>01/13/2014 16:11:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>09/08/2016 10:06:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>09/08/2016 10:06:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/08/2016 10:07:35</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/08/2016 10:06:04</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>09/08/2016 10:06:04</publishTime>
+    </File>
+    <File Include="bin/SignalRRealTimeSQL.dll">
+      <publishTime>04/23/2020 15:40:05</publishTime>
+    </File>
+    <File Include="bin/SignalRRealTimeSQL.pdb">
+      <publishTime>04/23/2020 15:40:05</publishTime>
+    </File>
+    <File Include="bin/SignalRRealTimeSQL.XmlSerializers.dll">
+      <publishTime>04/23/2020 15:40:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>10/01/2013 20:54:22</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>03/19/2020 13:30:41</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/20/2020 08:07:43</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.js">
+      <publishTime>09/08/2016 10:04:58</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>09/08/2016 10:04:57</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.1.js">
+      <publishTime>09/08/2016 10:05:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.1.min.js">
+      <publishTime>09/08/2016 10:05:04</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/cekcustomerkey.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/cekisreg.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/ceknohp.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/cekotp.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/cekpin.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/CountInbox.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/disclaimer1.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/GetCustomerData.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/getpoinheader.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/HistoryPoin.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/Inbox.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/Katalog.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/KeyFCM.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/news.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/Promo.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/redeemhis.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/redeemhisdetail.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/redeemitem.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/SetInbox.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web References/net.azurewebsites.customerpointwsbackup/UpdateData.datasource">
+      <publishTime>04/22/2020 21:12:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/23/2020 15:40:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
