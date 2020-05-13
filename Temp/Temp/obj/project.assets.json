@@ -2218,11 +2218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Temp\\Temp\\Temp\\Temp.csproj",
+      "projectUniqueName": "E:\\GIT\\Temp\\Temp\\Temp\\Temp.csproj",
       "projectName": "Temp",
-      "projectPath": "E:\\Projects\\Temp\\Temp\\Temp\\Temp.csproj",
+      "projectPath": "E:\\GIT\\Temp\\Temp\\Temp\\Temp.csproj",
       "packagesPath": "C:\\Users\\aji.pangestu\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Temp\\Temp\\Temp\\obj\\",
+      "outputPath": "E:\\GIT\\Temp\\Temp\\Temp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
