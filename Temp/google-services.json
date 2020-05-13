@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201119930773",
+    "firebase_url": "https://ialktemp.firebaseio.com",
+    "project_id": "ialktemp",
+    "storage_bucket": "ialktemp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201119930773:android:124a091ab036ce0549be9c",
+        "android_client_info": {
+          "package_name": "com.ialk.temp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201119930773-1og4as32l88ksqkjoo1ujjeq8eho2q45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQhey6ScaEYRYZP-hdCZXIuP_AHNDMNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201119930773-1og4as32l88ksqkjoo1ujjeq8eho2q45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
